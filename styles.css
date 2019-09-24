@@ -1,33 +1,35 @@
-#inside-spacing {
-    margin-top: 50 px;
-    margin-bottom: 50 px;
+#wrapper {
+    text-align: center
 }
 #content {
-    margin-top: 50px;
-    margin-bottom: 50 px;
-    width: 875px;
-    background-color: white
+    margin: auto
+}
+#content {
+    height: 2000px;
+    width: 1000px;
+    background-color: white;
+    margin-top: 15%;
+    margin-bottom: 15%;
 
 }
 #content {
-    border-left: 5px solid rgb(255, 231, 126);
-    border-left-color: rgb(255, 231, 126);
+    border-left: 5px solid rgb(215, 204, 255);
+    border-left-color: rgb(215, 204, 255);
     border-left-style: solid;
     border-left-width: 5px;
-    border-right: 5px solid rgb(255, 235, 144);
-    border-right-color: rgb(255, 235, 144);
+    border-right: 5px solid rgb(215, 204, 255);
+    border-right-color: rgb(215, 204, 255);
     border-right-style: solid;
     border-right-width: 5px;
-    border-top: 5px solid rgb(255, 231, 126);
-    border-top-color: rgb(255, 231, 126);
+    border-top: 5px solid rgb(215, 204, 255);
+    border-top-color: rgb(215, 204, 255);
     border-top-style: solid;
     border-top-width: 5px;
-    border-bottom: 5px solid rgb(255, 235, 144);
-    border-bottom-color: rgb(255, 235, 144);
+    border-bottom: 5px solid rgb(215, 204, 255);
+    border-bottom-color: rgb(215, 204, 255);
     border-bottom-style: solid;
     border-bottom-width: 5px;
 }
-
  body {
-     background-image: url(background.png)
+     background-image: url(background.png);
  }   
